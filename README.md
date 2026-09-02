@@ -9,7 +9,7 @@ Este repositório centraliza e organiza todas as atividades e projetos desenvolv
 
 ### Disciplinas e Atividades
 
-| Semestre |            Disciplina             |  Professor   | Atividades / Projetos                                                                                          |     Status    |
+| Semestre |            Disciplina             |  Professor         | Atividades / Projetos                                                                                    |     Status    |
 |----------|-----------------------------------|--------------------|----------------------------------------------------------------------------------------------------------|---------------|
 |  2026.2  | Garantia da Qualidade de Software |    Daniel Paiva    | [🔗 Atividade 1 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade1-DanielPaiva.git)       | ✅ Concluído |
 |  2026.2  | Garantia da Qualidade de Software |    Daniel Paiva    | [🔗 Atividade 2 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade2-DanielPaiva.git)       | ✅ Concluído |
