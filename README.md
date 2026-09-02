@@ -1,6 +1,5 @@
 # Garantia da Qualidade de Software - Daniel Paiva
-
-## Este repositório centraliza e organiza todas as atividades e projetos desenvolvidos durante o curso. Cada matéria ou trabalho possui seu próprio repositório dedicado.
+Este repositório centraliza e organiza todas as atividades e projetos desenvolvidos durante o curso. Cada matéria ou trabalho possui seu próprio repositório dedicado.
 
 ### Disciplinas e Atividades
 
