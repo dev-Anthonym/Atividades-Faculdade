@@ -16,3 +16,4 @@ Este repositório centraliza e organiza todas as atividades e projetos desenvolv
 |  2026.2  | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 3 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade3-DanielPaiva.git) | ✅ Concluído |
 |  2026.2  | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 4 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade4-DanielPaiva.git) | ✅ Concluído |
 |  2026.2  | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 5 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade5-DanielPaiva.git) | ✅ Concluído |
+|  2026.2  | Garantia da Qualidade de Software | Silmar vasconselos [🔗 Atividade 2 - Ver Repositório]((https://github.com/dev-Anthonym/GQS-Atividade2-SilmarVasconselos.git)) | ✅ Concluído |
