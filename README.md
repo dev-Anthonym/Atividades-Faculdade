@@ -1,4 +1,9 @@
-# Garantia da Qualidade de Software - Daniel Paiva
+# Atividades da Faculdade
+### Curso: Ciências da Computação
+### Unidade Curricular: Garantia da Qualidade de Software
+### Professores: Daniel Paiva e Silmar Vasconselos
+### Anthony Rafael Braga Magalhães
+
 Este repositório centraliza e organiza todas as atividades e projetos desenvolvidos durante o curso. Cada matéria ou trabalho possui seu próprio repositório dedicado.
 
 ### Disciplinas e Atividades
