@@ -9,10 +9,10 @@ Este repositório centraliza e organiza todas as atividades e projetos desenvolv
 
 ### Disciplinas e Atividades
 
-| Semestre | Disciplina | Professor | Atividades / Projetos | Link do Repositório | Status |
-|---|---|---|---|---|
-| 2026.2 | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 1 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade1-DanielPaiva.git) | ✅ Concluído |
-| 2026.2 | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 2 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade2-DanielPaiva.git) | ✅ Concluído |
-| 2026.2 | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 3 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade3-DanielPaiva.git) | ✅ Concluído |
-| 2026.2 | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 4 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade4-DanielPaiva.git) | ✅ Concluído |
-| 2026.2 | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 5 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade5-DanielPaiva.git) | ✅ Concluído |
+| Semestre |            Disciplina             |  Professor   | Atividades / Projetos                                                                              |     Status    |
+|----------|-----------------------------------|--------------|----------------------------------------------------------------------------------------------------|---------------|
+|  2026.2  | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 1 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade1-DanielPaiva.git) | ✅ Concluído |
+|  2026.2  | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 2 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade2-DanielPaiva.git) | ✅ Concluído |
+|  2026.2  | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 3 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade3-DanielPaiva.git) | ✅ Concluído |
+|  2026.2  | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 4 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade4-DanielPaiva.git) | ✅ Concluído |
+|  2026.2  | Garantia da Qualidade de Software | Daniel Paiva | [🔗 Atividade 5 - Ver Repositório](https://github.com/dev-Anthonym/GQS-Atividade5-DanielPaiva.git) | ✅ Concluído |
